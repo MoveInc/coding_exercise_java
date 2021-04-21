@@ -1,0 +1,17 @@
+node_modules
+dist
+.vscode
+*.code-workspace
+Icon.
+coverage
+/.idea/
+
+yarn-error.log
+.DS_Store
+
+bin
+build
+.classpath
+.settings
+.project
+.gradle
